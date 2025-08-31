@@ -68,7 +68,8 @@ Add a calculated column:
 > ### Excel formulas used: PROPER() UPPER() TRIM() YEAR() MONTH() DAY() TEXT() DATEDIF() TODAY() IF() ISBLANK() 
 
 ## Analytics Dashboard
- 
+ <img width="968" height="426" alt="image" src="https://github.com/user-attachments/assets/246657f6-edbd-456e-9514-80e743928732" />
+
 
 ## Findings
 > 1.	Total no of year, months and days each staff has stayed in employment with the company.
